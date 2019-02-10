@@ -1,1 +1,1 @@
-<script async src="//jsfiddle.net/Palehorse/fpumzvb3/24/embed/"></script>
+<iframe src="http://jsfiddle.net/Palehorse/fpumzvb3/25/embed/result,js,html,css/">
