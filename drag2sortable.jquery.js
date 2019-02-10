@@ -60,7 +60,7 @@
  		}
  	}
  
-	$.fn.darg2sortable = function(params) {
+	$.fn.drag2sortable = function(params) {
 		_this = this;
 		$.extend(_defaults, params);
 		if (!_this.is('ul')) {
