@@ -18,3 +18,26 @@ require('drag2sortable/drag2sortable.jquery.js');
 ```
 
 [Demo on jsFiddle](https://jsfiddle.net/Palehorse/fpumzvb3/26/)
+
+## 使用方法
+#### 基本用法
+```javascript
+$('ul#drag2sortable').drag2sortable();
+```
+## Callbacks
+#### onMove
+```javascript
+$('ul#drag2sortable').drag2sortable({
+    onMove: function() {
+        // Do something during dragging.
+    }
+});
+```
+#### onSorted
+```javascript
+$('ul#drag2sortable').drag2sortable({
+    onSorted: function() {
+        // Do something when sorting done.
+    }
+});
+```
