@@ -22,6 +22,7 @@ require('drag2sortable/drag2sortable.jquery.js');
 ## 使用方法
 #### 基本用法
 ```html
+<!-- HTML -->
 <ul id="drag2sortable">
   <li>item1</li>
   <li>item2</li>
@@ -32,6 +33,7 @@ require('drag2sortable/drag2sortable.jquery.js');
 </ul>
 ```
 ```javascript
+//JavaScript
 $('ul#drag2sortable').drag2sortable();
 ```
 ## Callbacks
