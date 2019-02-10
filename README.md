@@ -17,4 +17,4 @@ npm install drag2sortable
 require('drag2sortable/drag2sortable.jquery.js');
 ```
 
-[Demo](https://jsfiddle.net/Palehorse/fpumzvb3/26/)
+[Demo on jsFiddle](https://jsfiddle.net/Palehorse/fpumzvb3/26/)
